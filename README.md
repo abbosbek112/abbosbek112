@@ -61,8 +61,8 @@ const abbosbek = {
 <div align="left">
 
 <a href="https://abboc.online"><img src="https://img.shields.io/badge/Website-abboc.online-4F7CFF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://t.me/abbosbek112"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:abbos@abboc.online"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/odam.dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:azizovabbos61@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
