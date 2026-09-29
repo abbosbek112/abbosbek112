@@ -35,26 +35,6 @@ const abbosbek = {
 <img src="https://img.shields.io/badge/Zustand-593D88?style=flat-square" />
 <img src="https://img.shields.io/badge/React_Three_Fiber-000?style=flat-square&logo=three.js&logoColor=white" />
 
----
-
-### 📊 GitHub Statistika
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abbosbek112&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0f&title_color=4F7CFF&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbosbek112&layout=compact&theme=react&hide_border=true&bg_color=0a0a0f&title_color=4F7CFF&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbosbek112&theme=react&hide_border=true&background=0a0a0f&ring=4F7CFF&fire=8B5CF6&currStreakLabel=4F7CFF" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abbosbek112&theme=algolia&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
----
 
 ### 🌐 Aloqa
 
